@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.a {
+    background-image: url("https://media.istockphoto.com/id/610041376/photo/beautiful-sunrise-over-the-sea.jpg?s=612x612&w=0&k=20&c=R3Tcc6HKc1ixPrBc7qXvXFCicm8jLMMlT99MfmchLNA=");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.c {
+    color: white;
+    font-family: "Caveat";
+    font-size: 40px;
+}
+
+.d {
+    color: black;
+    border-radius: 10px;
+    border-width: 3px;
+    font-weight: bold;
+}
+
+.e {
+    background-image: url("https://media.gettyimages.com/id/1487778807/video/aerial-view-of-woman-walking-on-incredible-maldivian-beach.jpg?s=640x640&k=20&c=0ekqtebuVUBrEFRUZ1aCXgjrBNvIxvg-VpThjMaP22g=");
+    height: 100%;
+    background-size: cover;
+    padding: 10px;
+    width: 100vw;
+}
+
+.f {
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 30px;
+}
+
+.f:hover {
+    transform: translateY(-10px);
+}
+
+.imgg {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.g {
+    font-family: "Sans-Serif";
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.h {
+    font-family: "bree-serif";
+    font-size: 15px;
+}
+
+.eg {
+    background-image: url("https://www.hyderabadtourism.travel/images/v2/header-places/golconda-fort-hyderabad-tourism-attraction-entryfee-timings-reviews-header.jpg");
+    height: 100%;
+    background-size: cover;
+    padding: 10px;
+    width: 110vw;
+}
+
+.H1 {
+    font-family: "bree-serif";
+    font-size: 20px;
+}
+
+.loc {
+    font-weight: bold;
+    color: red;
+}
+
+.loci {
+    font-weight: bold;
+}
+
+.i {
+    text-align: center;
+}
+
+.one {
+    height: 50vh;
+    width: 100vh;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.crs-a {
+    background-image: url("https://www.technocrazed.com/wp-content/uploads/2015/12/beautiful-wallpaper-download-13.jpg");
+    height: 100%;
+    padding: 60px;
+    background-size: cover;
+
+}
+
+.card-crs {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: white;
+}
+
+.head-crs {
+    font-size: 28px;
+    text-align: center;
+    font-family: "Sans-Serif";
+}
+
+.text-crs {
+    padding: 15px;
+    font-family: "bree-serif";
+}
+
+.button-crs {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.span1 {
+    font-weight: bold;
+    font-family: "bree-serif";
+}
+
+.paymode {
+    background-color: black;
+    height: 100%;
+    padding: 80px;
+}
+
+.card-booking {
+    padding: 10px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.card-booking-heading {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.note-in-paymode {
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    height: 10vh;
+    margin: 10px;
+}
+
+.note-in-paymode-h1 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.btn-paymode {
+    text-align: center;
+}
